@@ -1,0 +1,16 @@
+baseURL: "https://stefaan.be"
+languageCode: nl-BE
+title: Stefaan
+Theme: toha
+params:
+  enableBlogPost: false
+  newsletter:
+    enable: false
+
+languages:
+  en:
+    languageName: Nederlands
+    weight: 1
+
+enableEmoji: true
+
