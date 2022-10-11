@@ -21,7 +21,7 @@ languages:
     weight: 1
     contentDir: content/en
     
-DefaultContentLanguage: nl
+DefaultContentLanguage: nl 🇧🇪
 
 
 enableEmoji: true
