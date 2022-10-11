@@ -8,7 +8,7 @@ params:
     enable: false
 
 languages:
-  nl:
+  nl 🇧🇪:
     title: Stefaan Dierants
     weight: 3
     contentDir: content/nl
