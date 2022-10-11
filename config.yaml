@@ -1,16 +1,28 @@
 baseURL: https://jensdeleersnyderpxl.github.io
 languageCode: nl-BE
 title: Stefaan
-Theme: toha
+Theme: ananke
 params:
   enableBlogPost: false
   newsletter:
     enable: false
 
 languages:
+  nl:
+    title: Stefaan Dierants
+    weight: 3
+    contentDir: content/nl
+  fr:
+    title: Stefaan Vétérinaire
+    wight: 2
+    contentDir: content/fr
   en:
-    languageName: Nederlands
+    title: Stefaan Vet
     weight: 1
+    contentDir: content/en
+    
+DefaultContentLanguage: nl
+
 
 enableEmoji: true
 
